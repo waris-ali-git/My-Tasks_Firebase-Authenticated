@@ -1,4 +1,4 @@
-# 🗂️ My Tasks – *A Personal Task Manager App*
+# 🗂️ My Tasks – *Now with FIREBASE Authentication*
 
 > _"Stay organized, stay focused. Because every task deserves your attention."_  
 > Now with **Firebase Authentication** — because your tasks should be as personal as your coffee preference.
